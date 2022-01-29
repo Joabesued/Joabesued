@@ -1,15 +1,17 @@
 ### Hi, I'm Joabe Costa 👋
 
-
-
 - I’m currently learning : JavaScript | NodeJS | NextJS | ReactJS
 - I’m looking to collaborate on with technologies that can transform people's lives.
 - I’m looking for help with to find future job opportunities, in order to develop my skills and transform companies and the technological market.
 
+
+
+
+
 <div align="center">
   <a href="https://github.com/joabesued">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=joabesued&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabesued&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joabesued&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabesued&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div> 
