@@ -1,6 +1,6 @@
 ### Hi, I'm Joabe Costa 👋
 
-- I’m currently learning : JavaScript | NodeJS | EJS | Express | mongoBD 
+- I’m currently learning : JavaScript | NodeJS | EJS | mongoBD 
 - I’m looking to collaborate on with technologies that can transform people's lives.
 - I’m looking for help with to find future job opportunities, in order to develop my skills and transform companies and the technological market.
 
